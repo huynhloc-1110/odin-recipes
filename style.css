@@ -1,0 +1,42 @@
+html {
+  background-color: rgb(255, 220, 234);
+}
+
+h1, h2 {
+  background-color: purple;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xx-large;
+  text-align: center;
+}
+
+h2 {
+  background-color: slateblue;
+  font-size: x-large;
+}
+
+h3 {
+  font-size: large;
+}
+
+p, li {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+  text-align: justify;
+}
+
+a {
+  background-color: white;
+  color: black;
+  font-family: Tahoma, sans-serif;
+  font-size: x-large;
+}
+
+div.img-container {
+  text-align: center;
+}
+
+div.img-container img {
+  height: auto;
+  width: 40%;
+}
